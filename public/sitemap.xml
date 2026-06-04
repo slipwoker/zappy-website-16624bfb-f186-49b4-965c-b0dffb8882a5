@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com</loc>
+    <loc>https://d3view-1.zappy5.app</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/feature/ls-dyna-engineering-workflow</loc>
+    <loc>https://d3view-1.zappy5.app/feature/ls-dyna-engineering-workflow</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/blog/ls-dyna-feature-insights</loc>
+    <loc>https://d3view-1.zappy5.app/blog/ls-dyna-feature-insights</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/webinars-and-updates</loc>
+    <loc>https://d3view-1.zappy5.app/webinars-and-updates</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/privacy</loc>
+    <loc>https://d3view-1.zappy5.app/privacy</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/terms</loc>
+    <loc>https://d3view-1.zappy5.app/terms</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.com/accessibility</loc>
+    <loc>https://d3view-1.zappy5.app/accessibility</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

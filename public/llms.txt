@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://example.com
+https://d3view-1.zappy5.app
 Discover how d3VIEW&#39;s reverse engineering software empowers LS-DYNA engineers to decode complex simulations, streamline workflows, and unlock data-driven insights. Start optimizing today.
 
 ### Feature Page
-https://example.com/feature/ls-dyna-engineering-workflow
+https://d3view-1.zappy5.app/feature/ls-dyna-engineering-workflow
 Explore d3VIEW&#39;s new feature built exclusively for LS-DYNA engineers. Learn how reverse engineering in software engineering accelerates model refinement and slashes iteration time. See it in action.
 
 ### Engineering Blog
-https://example.com/blog/ls-dyna-feature-insights
+https://d3view-1.zappy5.app/blog/ls-dyna-feature-insights
 Dive into expert articles revealing how d3VIEW&#39;s platform uses object oriented software engineering to simplify reverse engineering tasks. Get actionable tips and deep insights now.
 
 ### Webinars & Customer Updates
-https://example.com/webinars-and-updates
+https://d3view-1.zappy5.app/webinars-and-updates
 Join d3VIEW&#39;s webinars and stay ahead with customer updates that bring software engineering institute expertise to your desktop. Reserve your spot and master modern simulation techniques.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://d3view-1.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://d3view-1.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://d3view-1.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -44,8 +44,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 1130 Tienken Ct., Suite 102, Rochester Hills, MI 48306, Rochester Hills, MI, 48306, United States
 
 ### Contact form
-- URL: https://example.com/webinars-and-updates
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://d3view-1.zappy5.app/webinars-and-updates
+- Endpoint: https://d3view-1.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Engineering Software
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://d3view-1.zappy5.app/sitemap.xml
+- Robots: https://d3view-1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://d3view-1.zappy5.app/llms-full.txt
