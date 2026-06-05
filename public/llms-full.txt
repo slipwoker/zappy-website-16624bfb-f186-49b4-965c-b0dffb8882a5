@@ -113,6 +113,106 @@ Read the Blog
 
 
 
+
+
+
+
+
+
+
+
+LS-DYNA Engineering Platform
+
+
+
+# See d3VIEW in Action
+
+
+Watch how leading LS-DYNA engineers accelerate simulation workflows, extract critical insights, and make faster decisions — all within a single platform.
+
+
+
+- Automated simulation data processing
+
+- Real-time crash simulation insights
+
+- Collaborative engineering workflows
+
+
+
+
+
+
+
+
+
+Get a Demo
+
+
+Explore Features
+→
+
+
+
+
+
+Trusted by 500+ engineering teams worldwide
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d3VIEW Platform Demo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10×
+Faster Insights
+
+
+
+500+
+Active Teams
+
+
+
+99.9%
+Uptime SLA
+
+
+
+
+
+
+
+
+
+
 ## Engineered for LS-DYNA Workflows
 
 
